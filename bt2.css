@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+div {
+	width: 600px;
+}
+
+img {
+	width: 600px;
+	height: 650px;
+}
+
+body {
+	font-family: Arial;
+}
+
+header {
+	background-color: lightgreen;
+	padding: 2px;
+	padding-left: 15px;
+}
+
+p {
+	padding-left: 15px;
+}
+
+footer {
+	background-color: lightgreen;
+	padding: 2px;
+	padding-left: 15px;
+}
